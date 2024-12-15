@@ -1,10 +1,10 @@
-Prasyarat-
+Prasyarat -
 Sebelum menjalankan proyek ini, pastikan Anda telah menginstal dan memiliki:
 1. XAMPP - Digunakan untuk server lokal (Apache & MySQL).
 2. PHPMyAdmin - Untuk mengelola database MySQL.
 3. Web Browser - Untuk menjalankan aplikasi di localhost.
    
-Cara Instalasi-
+Cara Instalasi -
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
 1. Download File Proyek
 - Unduh file dalam format ZIP dari repository.
