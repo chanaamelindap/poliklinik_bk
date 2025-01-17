@@ -17,6 +17,6 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
 - Buat database baru dengan nama poli.
 - Import file database poli.sql yang ada di dalam folder proyek ke database tersebut.
 4. Jalankan Proyek
-- Buka browser dan akses URL berikut: http://localhost/Poliklinik-BK-master
+- Buka browser dan akses URL berikut: http://localhost/poliklinik-chana
   
 Setelah mengikuti langkah-langkah di atas, proyek Poliklinik akan berjalan dengan baik di server lokal Anda.
